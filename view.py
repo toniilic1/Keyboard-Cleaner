@@ -9,7 +9,6 @@ def main():
     root.resizable(False, False)
     root.iconbitmap('images/flavicon.ico')
 
-
     keyLabel = tk.Label(root, text = "Keyboard", font = ('Helvetica', 24))
     keyLabel.grid(column = 0, row = 0, padx = 30)
     textLabel = tk.Label(root, text = "", font = ('Helvetica'))
@@ -52,7 +51,6 @@ def main():
             if is_onK == True and is_onM == True: #activates keyboard if deactivated
                 key_switch()
 
-
     on = tk.PhotoImage(file = "images/res-switch-on.png")
     off = tk.PhotoImage(file = "images/res-switch-off.png")
 
@@ -64,9 +62,7 @@ def main():
     root.bind('<Return>', mouse_switch)
     mouse_button.grid(column = 1, row = 2, sticky = 'ne')
 
-
     root.mainloop()
-
 
 if __name__ == '__main__':
     is_onK = False
