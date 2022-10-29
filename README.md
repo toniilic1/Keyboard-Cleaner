@@ -26,6 +26,7 @@ or
 - ```pip install -r requirements.txt```
 
 4. Run view.py
+- ```py view.py```
 
 ## License
 
