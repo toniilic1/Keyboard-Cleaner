@@ -21,11 +21,12 @@ Features pynput library for disabling the devices.
 - ```.venv\scripts\activate```
 
 3. Install the pynput:
-- ```pip install pyjwt```
+- ```pip install pynput```
 or
 - ```pip install -r requirements.txt```
 
 4. Run view.py
+- ```py view.py```
 
 ## License
 
