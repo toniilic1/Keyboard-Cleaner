@@ -12,6 +12,10 @@ You cannot disable both switches and you can always use CTRL+ALT+DEL.
 
 Features pynput library for disabling the devices.
 
+How it looks:
+
+![Screenshot](kbapp.png)
+
 ## Installation
 1. Clone the project:
 - ```git clone https://github.com/toniilic1/Keyboard-Cleaner```
