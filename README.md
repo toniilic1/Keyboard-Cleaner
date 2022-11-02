@@ -18,7 +18,7 @@ How it looks:
 
 ## Installation
 1. Clone the project:
-- ```git clone https://github.com/toniilic1/Keyboard-Cleaner```
+- ```git clone https://github.com/toniilic1/Keyboard-Cleaner.git```
 
 2. Create a virtual env:
 - ```py -m venv .venv```
